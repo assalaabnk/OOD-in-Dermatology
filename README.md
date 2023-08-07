@@ -10,10 +10,12 @@ The main goal of this project is to explore multiple ML solutions that effective
 ## Repository Contents
 This GitHub repository contains the code, datasets, and documentation for the project. The main components of the repository are as follows:
 
-## Code: This directory includes the implementation of various ML algorithms and OOD detection approaches. We will explore different architectures and techniques to enhance the robustness of the dermatology diagnosis model.
+## Code: 
+This directory includes the implementation of various ML algorithms and OOD detection approaches. We will explore different architectures and techniques to enhance the robustness of the dermatology diagnosis model.
 
-## Datasets: We provide the Fitzpatrick 17k dataset consisting of 16,577 clinical images of 114 different skin conditions, annotated with Fitzpatrick skin type labels. Additionally, we will include datasets for OOD samples to test the performance of the OOD detection methods.
+## Datasets: 
+We provide the Fitzpatrick 17k dataset consisting of 16,577 clinical images of 114 different skin conditions, annotated with Fitzpatrick skin type labels. Additionally, we will include datasets for OOD samples to test the performance of the OOD detection methods.
 
-Documentation: Detailed documentation, including project setup instructions, usage guidelines, and explanations of the implemented algorithms, will be available in this section.
+## Documentation: 
 
 ## Contribution
