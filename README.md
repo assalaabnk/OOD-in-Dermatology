@@ -7,14 +7,12 @@ Most machine learning (ML) models assume ideal conditions, assuming that test da
 ## Project Goal
 The main goal of this project is to explore multiple ML solutions that effectively detect OOD samples before making any diagnostic decision. By identifying OOD samples, we aim to enhance the reliability and accuracy of medical disease diagnosis models in diverse clinical settings, where unknown or unfamiliar conditions may arise. Additionally, we will evaluate the fairness of these OOD detectors across different skin tones to ensure equitable performance for all patient groups.
 
-## Repository Contents
-This GitHub repository contains the code, datasets, and documentation for the project. The main components of the repository are as follows:
 
 ## Code: 
 This directory includes the implementation of various ML algorithms and OOD detection approaches. We will explore different architectures and techniques to enhance the robustness of the dermatology diagnosis model.
 
 ## Datasets: 
-We provide the Fitzpatrick 17k dataset consisting of 16,577 clinical images of 114 different skin conditions, annotated with Fitzpatrick skin type labels. Additionally, we will include datasets for OOD samples to test the performance of the OOD detection methods.
+We provide the Fitzpatrick 17k dataset consisting of 16,577 clinical images of 114 different skin conditions, annotated with Fitzpatrick skin type labels Skin, the images were labeled as FST I-IV and FST V-VI . Additionally, we included the ISIC 2019 dataset consisting of 25,331  images available for the classification of dermoscopic images among nine different diagnostic categories: Melanoma. Melanocytic nevus. Basal cell carcinoma.
 
 ## Documentation: 
 
