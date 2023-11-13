@@ -12,7 +12,8 @@ Our experiments yield that in poorly performing OOD models, the representation g
 ## Code: 
 This directory includes the implementation of various ML algorithms and OOD detection approaches. We will explore different architectures and techniques to enhance the robustness of the dermatology diagnosis model.
 
-![approach ISIB drawio](https://github.com/assalaabnk/OOD-in-Dermatology/assets/61749380/ca19aa3c-3365-4063-b0cd-3644d405922e)
+![approach ISIB drawio](https://github.com/assalaabnk/OOD-in-Dermatology/assets/61749380/30ca973e-c55d-40c0-b57a-c5d0906a8c0d)
+
 
 
 ## Datasets: 
