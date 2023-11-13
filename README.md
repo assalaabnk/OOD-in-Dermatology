@@ -12,6 +12,9 @@ Our experiments yield that in poorly performing OOD models, the representation g
 ## Code: 
 This directory includes the implementation of various ML algorithms and OOD detection approaches. We will explore different architectures and techniques to enhance the robustness of the dermatology diagnosis model.
 
+![approach drawio (1)](https://github.com/assalaabnk/OOD-in-Dermatology/assets/61749380/9183c794-9818-4227-a0af-ea22d2be5e43)
+
+
 ## Datasets: 
 We provide the Fitzpatrick 17k dataset consisting of 16,577 clinical images of 114 different skin conditions, annotated with Fitzpatrick skin type labels Skin, the images were labeled as FST I-IV and FST V-VI . Additionally, we included the ISIC 2019 dataset consisting of 25,331  images available for the classification of dermoscopic images among nine different diagnostic categories: Melanoma. Melanocytic nevus. Basal cell carcinoma.
 
