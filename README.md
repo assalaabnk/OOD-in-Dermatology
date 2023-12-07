@@ -12,7 +12,7 @@ Our experiments yield that in poorly performing OOD models, the representation g
 
 - See [this folder](./OOD%20methods) for code regarding the different OOD methods evaluated. We adopt Isolation Forest and OneClassSVM as baselines and AutoEncoder, Neural Network Softmax, and ODIN as state-of-the-art OOD methods. All models, training, and testing procedures, as well as hyperparameters, can be replicated following the code in this folder.
 
-- See [this folder](./data) for the datasets used to validate the proposed framework: ISIC 2019 and Fitzpatrick 17k for dermoscopic and clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
+- See [this folder](https://github.com/assalaabnk/OOD-in-Dermatology/tree/c24a33db1b3de81a9d380e16aa10942ebf2e4545/data) for the datasets used to validate the proposed framework: ISIC 2019 and Fitzpatrick 17k for dermoscopic and clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
 
 - See [this notebook - TBD](XX) For the evaluation and ranking of all OOD methods studied and our $RG$ metric comparison.
 
