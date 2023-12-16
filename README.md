@@ -14,7 +14,7 @@ Our experiments yield that in poorly performing OOD models, the representation g
 
 - See [this folder](https://github.com/assalaabnk/OOD-in-Dermatology/tree/c24a33db1b3de81a9d380e16aa10942ebf2e4545/data) for the datasets used to validate the proposed framework: ISIC 2019 and Fitzpatrick 17k for dermoscopic and clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
 
-- See [this notebook - TBD](XX) For the evaluation and ranking of all OOD methods studied and our $RG$ metric comparison.
+- See [this notebook - TBD](https://github.com/assalaabnk/OOD-in-Dermatology/blob/582777c4ebc0428c5ce0684f91a68bd21add94df/OOD%20methods/RG___Evaluation.ipynb) For the evaluation and ranking of all OOD methods studied and our $RG$ metric comparison.
 
 ## Citation
 
