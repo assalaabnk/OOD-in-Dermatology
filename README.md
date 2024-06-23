@@ -6,7 +6,8 @@ As most skin datasets are reported to suffer from bias in skin tone distribution
 We review and compare state-of-the-art OOD detectors across two categories of skin tones, FST I-IV (lighter tones) and FST V-VI (brown and darker tones), over samples collected from dermatoscopic and clinical protocols. 
 Our experiments yield that in poorly performing OOD models, the representation gap measured between skin types is wider (from $\approx 10\%$ to $30\%$) up for samples from darker skin tones. Compared to better performing models, skin type performance only differs for $\approx 2\%$. Furthermore, this work shows that understanding  OOD methods' performance beyond average metrics is critical to developing more fair approaches. As we observe, models with a similar overall performance have a significant difference in the representation gap, impacting FST I-IV and FST V-VI differently.
 
-![approach ISIB drawio](https://github.com/assalaabnk/OOD-in-Dermatology/assets/61749380/30ca973e-c55d-40c0-b57a-c5d0906a8c0d)
+![New approach proportions updated](https://github.com/assalaabnk/OOD-in-Dermatology/assets/61749380/b074961a-8bde-41d0-86be-2d056fd094fd)
+
 
 ## Repo organization
 
