@@ -10,11 +10,13 @@ Our experiments yield that in poorly performing OOD models, the representation g
 
 ## Repo organization
 
-- See [this folder](https://github.com/assalaabnk/OOD-in-Dermatology/tree/d3d60f0c0f718db7a0cc600440fd38db87c9a831/OOD%20methods) for code regarding the different OOD methods evaluated. We adopt Isolation Forest and OneClassSVM as baselines and AutoEncoder, Neural Network Softmax, and ODIN as state-of-the-art OOD methods. All models, training, and testing procedures, as well as hyperparameters, can be replicated following the code in this folder.
+- See [this folder](link) for code regarding the different OOD methods trained on different proportions . We adopt Isolation Forest and OneClassSVM as baselines and AutoEncoder as state-of-the-art OOD methods. All models, training, and testing procedures, as well as hyperparameters, can be replicated following the code in this folder.
 
-- See [this folder](https://github.com/assalaabnk/OOD-in-Dermatology/tree/c24a33db1b3de81a9d380e16aa10942ebf2e4545/data) for the datasets used to validate the proposed framework: ISIC 2019 and Fitzpatrick 17k for dermoscopic and clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
+- See [this folder](link) for the datasets used to validate the proposed framework: Fitzpatrick17k, SCIN, and SD-198 for  clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
 
-- See [this notebook ](https://github.com/assalaabnk/OOD-in-Dermatology/blob/582777c4ebc0428c5ce0684f91a68bd21add94df/OOD%20methods/RG___Evaluation.ipynb) For the evaluation and ranking of all OOD methods studied and our $RG$ metric comparison.
+- See [this notebook ](link) For the evaluation and ranking of all OOD methods studied and our $RG$ metric and  comparison.
+  
+- See [this notebook ](link) For the fairness metrics comparison for all OOD methods studied.
 
 ## Citation
 
