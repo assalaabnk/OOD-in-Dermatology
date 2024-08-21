@@ -33,7 +33,7 @@ tones, thereby providing competitive quality of care across different population
 
 If you find useful this repo, please consider citing:
 
-### TBD
+> TBD
 
 
 [![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)]([https://github.com/assalaabnk/OOD-in-Dermatology](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-detection-with-proportions))
