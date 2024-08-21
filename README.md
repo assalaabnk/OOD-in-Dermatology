@@ -13,7 +13,7 @@ Our experiments yield that in poorly performing OOD models, the representation g
 
 ## Citation
 
-If you find useful this repo, please consider citing:
+If you find this repo useful, please consider citing:
 
 > @inproceedings{benmalek2024evaluating,
   title={Evaluating the Impact of Skin Tone Representation on Out-of-Distribution Detection Performance in Dermatology},
@@ -31,7 +31,7 @@ tones, thereby providing competitive quality of care across different population
 
 ![miccai-overvew-pdf-2 pdf](https://github.com/user-attachments/assets/5c9a9dd1-c205-46a7-b581-12f71e7f631d)
 
-If you find useful this repo, please consider citing:
+If you find this repo useful, please consider citing:
 
 > TBD
 
