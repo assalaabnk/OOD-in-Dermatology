@@ -1,3 +1,0 @@
-Skin tone representation for each data point is labeled for both Fitzpatrick 17k and ISIC2019 datasets as :
-  FST = 0 for light skin tone (FST I-IV)
-  FST = 1 for dark skin tone (FST V-VI)
