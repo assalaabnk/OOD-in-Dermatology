@@ -21,7 +21,7 @@ If you find this repo useful, please consider citing:
   booktitle={IEEE International Symposium on Biomedical Imaging},
   year={2024}}
 
-[![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)](https://github.com/assalaabnk/OOD-in-Dermatology)
+[![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-Detection)
 
 ## 2. IMPACT OF SKIN TONE DIVERSITY ON OUT-OF-DISTRIBUTION DETECTION METHODS IN DERMATOLOGY
 
@@ -36,7 +36,7 @@ If you find this repo useful, please consider citing:
 > TBD
 
 
-[![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)]([https://github.com/assalaabnk/OOD-in-Dermatology](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-detection-with-proportions))
+[![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-detection-with-proportions)
 
 
 ## Setup 
