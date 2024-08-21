@@ -33,6 +33,13 @@ Our experiments yield that in poorly performing OOD models, the representation g
 
 ![miccai-overvew-pdf-2 pdf](https://github.com/user-attachments/assets/5c9a9dd1-c205-46a7-b581-12f71e7f631d)
 
+If you find useful this repo, please consider citing:
+
+### TBD
+
+
+[![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)]([https://github.com/assalaabnk/OOD-in-Dermatology](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-detection-with-proportions))
+
 
 ## Setup 
 
