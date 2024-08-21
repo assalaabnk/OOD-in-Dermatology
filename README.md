@@ -21,6 +21,12 @@ If you find useful this repo, please consider citing:
   booktitle={IEEE International Symposium on Biomedical Imaging},
   year={2024}}
 ```
+> @inproceedings{benmalek2024evaluating,
+  title={Evaluating the Impact of Skin Tone Representation on Out-of-Distribution Detection Performance in Dermatology},
+  author={Benmalek, Assala and Cintas, Celia and Tadesse, Girmaw Abebe and Daneshjou, Roxana and Varshney, Kush and Dalila, Cherifi},
+  booktitle={IEEE International Symposium on Biomedical Imaging},
+  year={2024}}
+
 [![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)](https://github.com/assalaabnk/OOD-in-Dermatology)
 
 ## 2. IMPACT OF SKIN TONE DIVERSITY ON OUT-OF-DISTRIBUTION DETECTION METHODS IN DERMATOLOGY
