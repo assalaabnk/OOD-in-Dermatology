@@ -31,6 +31,8 @@ tones, thereby providing competitive quality of care across different population
 
 ![miccai-overvew-pdf-2 pdf](https://github.com/user-attachments/assets/5c9a9dd1-c205-46a7-b581-12f71e7f631d)
 
+## Citation
+
 If you find this repo useful, please consider citing:
 
 > TBD
