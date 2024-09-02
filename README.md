@@ -7,7 +7,7 @@ tones, thereby providing competitive quality of care across different population
 
 ## Repo organization
 
-- See [this folder](link) for code regarding the different OOD methods trained on different proportions . We adopt Isolation Forest and OneClassSVM as baselines and AutoEncoder as state-of-the-art OOD methods. All models, training, and testing procedures, as well as hyperparameters, can be replicated following the code in this folder.
+- See [this folder](https://github.com/assalaabnk/OOD-in-Dermatology/tree/proportions/OOD%20methods) for code regarding the different OOD methods trained on different proportions . We adopt Isolation Forest and OneClassSVM as baselines and AutoEncoder as state-of-the-art OOD methods. All models, training, and testing procedures, as well as hyperparameters, can be replicated following the code in this folder.
 
 - See [this folder](link) for the datasets used to validate the proposed framework: Fitzpatrick17k, SCIN, and SD-198 for  clinical samples from different collection protocols. We stratify the samples from both datasets based on skin tones (FST I-IV and FST V-VI). The labels assigned for each dataset can be found in this folder.
 
