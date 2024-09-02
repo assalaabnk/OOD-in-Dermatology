@@ -13,7 +13,7 @@ tones, thereby providing competitive quality of care across different population
 
 - See [this notebook ](link) For the evaluation and ranking of all OOD methods studied and our $RG$ metric and  comparison.
   
-- See [this notebook ](link) For the fairness metrics comparison for all OOD methods studied.
+- See [this notebook ](https://github.com/assalaabnk/OOD-in-Dermatology/blob/proportions/Group%20Fairness%20Evaluation/Group_Fairness_Metrics_.ipynb) For the group fairness metrics evaluation and compairison for all OOD methods studied across the Fitz17k FST V-VI proportions.
 
 ## Citation
 
