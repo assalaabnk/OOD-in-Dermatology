@@ -44,7 +44,7 @@ If you find this repo useful, please consider citing:
   year={2025},
   publisher={Springer, Cham},
   doi={10.1007/978-3-031-79103-1_13},
-  url={https://doi.org/10.1007/978-3-031-79103-1_13}
+  url={[https://doi.org/10.1007/978-3-031-79103-1_13](http://dx.doi.org/10.1007/978-3-031-79103-1_13)}
 }
 
 
