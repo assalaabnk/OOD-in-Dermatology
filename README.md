@@ -35,7 +35,18 @@ tones, thereby providing competitive quality of care across different population
 
 If you find this repo useful, please consider citing:
 
-> TBD
+> @inproceedings{benmalek2025impact,
+  title={Impact of Skin Tone Diversity on Out-of-Distribution Detection Methods in Dermatology},
+  author={Benmalek, Assala and Cintas, Celia and Tadesse, Girmaw Abebe},
+  booktitle={Medical Information Computing. MImA EMERGE 2024},
+  series={Communications in Computer and Information Science},
+  volume={2240},
+  year={2025},
+  publisher={Springer, Cham},
+  doi={10.1007/978-3-031-79103-1_13},
+  url={https://doi.org/10.1007/978-3-031-79103-1_13}
+}
+
 
 
 [![Demo](https://img.shields.io/badge/Demo-Green?style=for-the-badge&logo=appveyor)](https://github.com/assalaabnk/OOD-in-Dermatology/tree/OOD-detection-with-proportions)
